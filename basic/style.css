@@ -16,6 +16,7 @@ body, html {
   background-position: center 0;
   background-repeat: no-repeat;
   background-size: cover;
+  transition: all .2s;
 
   /**
    * Default height
